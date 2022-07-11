@@ -1,1 +1,2 @@
 this is file 02 for the branch01 first commit
+this is file 02-line02 for the branch01 second commit
