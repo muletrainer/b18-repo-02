@@ -1,6 +1,4 @@
 this is file 01 - line01 for first commit
-<<<<<<< HEAD
 this is file 01 - line02 for branch01 - first commit
-=======
 this is file01 - line02 for branch2 first commit
->>>>>>> branch2
+
